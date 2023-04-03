@@ -20,15 +20,13 @@ If you do need to reference past code/Stack Overflow, write down what topics you
 * Build a frontend using create-react-app in your client directory.
 * Display a list of movies from hardcoded data.
 * You can use the following data:
-```
-const movies = [
+```const movies = [
   {title: 'Mean Girls'},
   {title: 'Hackers'},
   {title: 'The Grey'},
   {title: 'Sunshine'},
   {title: 'Ex Machina'},
-];
-```
+];```
 
 #### Level 1
 * Establish a RESTful API using express persisting data with PostgreSQL in your server directory.
